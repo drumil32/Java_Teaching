@@ -1,0 +1,53 @@
+what is programming =>
+	co
+
+what is programming language =>
+	java, c++, c, C#, python
+
+java => compiler     => 0/1
+	(translator)
+
+programing language => compiler => .obj => .exe => executable
+
+
+every prog. lan. has translator
+	types of translaotr => compiler | interpretor
+
+compiler => c, c++ ( fast )
+interpretor => python ( slow )
+
+java => both
+
+
+two types of programming language =>
+    object oriented programming language => java, c++, python
+    procecdure oriented programming language => c
+
+
+memory=>
+    RAM , ROM
+    RAM => Random Access Memory (fast)
+    ROM => Read Only Memory (slow)
+
+cpu => RAM => ROM
+
+128 GB => ROM
+5 kg
+
+giga bytes
+
+1 kg => 1000 gm => 10,00,000 mg
+1 gb => 
+
+1000 mg => 1gram
+
+bit => 0/1
+8 bit => 1 byte
+1024 byte => 1 kilo byte (kb)
+1024 kb => 1 mega byte (mb)
+1024 mb => 1 giga byte (gb)
+
+
+
+HW
+Q. 128 gb => kb,mb,byte,bit ( do by yourself)
