@@ -34,6 +34,7 @@ public class First {
 
 // HW
 // find how many kw are there java ( name of some the them ) Search it
+// do it by your self
 // sum two numbers
 // multiplication of two number
 // division
